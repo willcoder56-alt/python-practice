@@ -7,6 +7,7 @@ No setup needed. Each badge opens the file in a free online Python editor and ru
 
 | File | |
 | --- | --- |
+| [`listFuncPractise.py`](./listFuncPractise.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=willcoder56-alt/python-practice/main/listFuncPractise.py) |
 | [`main.py`](./main.py) | [![Run in Python Compiler](https://pythoncompiler.io/badge-run.svg)](https://pythoncompiler.io/?gh=willcoder56-alt/python-practice/main/main.py) |
 
 Made with [pythoncompiler.io](https://pythoncompiler.io/?utm_source=github&utm_medium=practice-repo) - the free online Python compiler.
