@@ -1,4 +1,4 @@
-# I am the one who larps
+# I AM THE ONE WHO LARPS
 
 <!-- pythoncompiler:files -->
 ## Run these files in your browser
